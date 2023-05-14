@@ -1,7 +1,7 @@
 ---
 title: Plex Video Settings
 author: andrew
-date: 2023-05-13 20:30:00 -0500
+date: 2023-05-13 20:01:00 -0500
 categories: [Plex]
 tags: [plex, user, homelab, media, new, guide, graphics, movies, tv, shows, tv shows, music, libraries, overseerr, requests, quality]
 pin: false
