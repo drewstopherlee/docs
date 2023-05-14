@@ -56,7 +56,7 @@ Once you've entered the code, your streaming device should sign in automatically
 
 You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app" target="_blank">Plex downloads page</a> to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
 
-For convenience, Plex provides an online web client you can use to watch content at <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. However, using the web client should be avoided when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
+For convenience, Plex provides an online web client you can use to watch content at <a href="https://app.plex.tv/" target="_blank">app.plex.tv</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. However, using the web client should be avoided when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
 
 ## Playback Quality
 
