@@ -43,14 +43,14 @@ You can use Plex to stream content anywhere without worrying about copyright not
 
 If you're here, you were probably invited to join my Plex server. The first step is to send me the email address you will use to create your free Plex account. If you've already done this: excellent, continue reading!
 
-Shortly after you'll receive an email inviting you to join my server. Click the link in the email to accept the invitation and create your account at Plex. Once logged in, you may be asked to "Sync Watch State." I recommend enabling this feature, as it tracks your watch progress and allows you to start watching on one device and pick up on another. It also adds a "Continue Watching" section to your Home screen.
+Shortly after, you'll receive an email inviting you to join my server. Click the link in the email to accept the invitation and create your account at Plex. Once logged in, you may be asked to "Sync Watch State." I recommend enabling this feature, as it tracks your watch progress and allows you to start watching on one device and pick up on another. It also adds a "Continue Watching" section to your Home screen.
 
 Please don't share the account you create with others. If you know someone who you think would enjoy having access to this server, have them contact me. In most cases I'll be happy to add them with their own account. 
 
 > Additionally, if you decide to purchase a Plex Pass (unlocks some paid features within your Plex players), the people you add to your "Plex Home" will not have access to my libraries.
 {: .prompt-warning }
 
-Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
+Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS/tvOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
 
 Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a> and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
 
@@ -65,12 +65,12 @@ For convenience, Plex provides an online web client you can use to watch content
 > You will have to set your Video Settings on **each** device that you will be using to watch Plex.
 {: .prompt-info }
 
-Plex playback quality is dynamic and tries to adjust to the capabilities of your player and to the available internet bandwidth. However, out of the box, the quality settings in most Plex players are very conservative.
+Plex playback quality is dynamic and *tries* to adjust to the capabilities of your player and to the available internet bandwidth. However, out of the box, the quality settings in most Plex players are very conservative.
 
 To increase the quality of your playback experience, locate the Settings in your Plex app, and navigate to the Video Settings section. Typically, you should try to set **Local Quality** to *Original* and set **Remote Quality** to *Maximum*. If you then find playback stutters or pauses frequently, reduce the quality setting until you achieve smooth playback. This will ensure that media is played on your device at the highest quality possible and can help reduce strain on the Plex server.
 
 > See <a href="https://docs.shaffer.network/posts/plex-video-settings/" target="_blank">this post</a> for device-specific instructions on how to set up your Video Settings!
-{: .prompt-warning }
+{: .prompt-tip }
 
 ## Libraries
 
@@ -83,11 +83,11 @@ On my server, you will have been granted access to my Movies (which includes 4K 
 
 ## Navigation
 
-Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. Along the top of the main view you can switch between the Recommended, Library, Collections, or Playlists tabs.
+Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. Along the top of the main view you can switch between the Recommended, Library, Collections, and Playlists tabs.
 
 #### Recommended
 
-This is a view of content the server selects automatically that contains a "Continue Watching" section and a mix of items in this library that are new or popular.
+This is content the server selects automatically that contains a "Continue Watching" section and a mix of items in this library that are new or suggested.
 
 #### Library
 
@@ -106,7 +106,7 @@ The rest of the Collections tab is for movie series, i.e. Iron Man (includes Iro
 
 #### Playlists
 
-Playlists are curated lists of films and TV episodes with an emphasis on their ordering. For example, you may have a Playlist for Marvel's Infinity Saga and Multiverse Saga, as well as an "MCU Ultimate Watchlist" Playlist. The "MCU Ultimate Watchlist" contains all of the MCU films (and television series!) in their suggested watch order. There are other playlists available for crossover series, such as *The Vampire Diaries*, *The Originals*, and *Legacies*.
+Playlists are curated lists of films and TV episodes with an emphasis on their ordering. For example, you may have a playlist for Marvel's Infinity Saga and Multiverse Saga, as well as an "MCU Ultimate Watchlist" playlist. The "MCU Ultimate Watchlist" contains **all** of the MCU films (and television series!) in their suggested watch order. There are other playlists available for crossover series, such as *The Vampire Diaries*, *The Originals*, and *Legacies*.
 
 ### Playback
 
