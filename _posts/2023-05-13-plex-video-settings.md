@@ -12,13 +12,13 @@ pin: false
 This page details how to set your video settings correctly to provide the best playback experience while using Plex.
 
 Please click the link below according to which device you'll be using:
-- [Website](#plex-web)
+- [Website](https://docs.shaffer.network/posts/plex-video-settings/#plex-web)
 - [Cell phone or tablet app](#plex-on-iosandroid)
 - [Apple TV app](#plex-on-tvos)
 - [Smart TV](#plex-on-tv-apps)
-- [Amazon Fire TV](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tv-apps)
-- [Roku](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tv-apps)
-- [Video game console](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tv-apps)
+- [Amazon Fire TV](#plex-on-tv-apps)
+- [Roku](#plex-on-tv-apps)
+- [Video game console](#plex-on-tv-apps)
 
 ## Plex Web 
 
