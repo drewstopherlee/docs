@@ -50,13 +50,13 @@ Please don't share the account you create with others. If you know someone who y
 
 Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
 
-Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit [plex.tv/link](https://www.plex.tv/link/) and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
+Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a> and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
 
 Once you've entered the code, your streaming device should sign in automatically after a few moments.
 
-You can visit the [Plex downloads page](https://www.plex.tv/media-server-downloads/#plex-app) to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
+You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app" target="_blank">Plex downloads page</a> to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
 
-For convenience, Plex provides an online web client you can use to watch content at [app.plex.tv](https://app.plex.tv/). This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. However, using the web client should be avoided when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
+For convenience, Plex provides an online web client you can use to watch content at <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a>. This makes it easy to catch up on your favorite shows while traveling or away from your preferred devices. However, using the web client should be avoided when possible as it is inefficient and puts unnecessary strain on the Plex server hardware.
 
 ## Playback Quality
 
@@ -67,7 +67,7 @@ Plex playback quality is dynamic and tries to adjust to the capabilities of your
 
 To increase the quality of your playback experience, locate the Settings in your Plex app, and navigate to the Video Settings section. Typically, you should try to set **Local Quality** to *Original* and set **Remote Quality** to *Maximum*. If you then find playback stutters or pauses frequently, reduce the quality setting until you achieve smooth playback. This will ensure that media is played on your device at the highest quality possible and can help reduce strain on the Plex server.
 
-> See [this post](https://docs.shaffer.network/posts/plex-video-settings/) for device-specific instructions on how to set up your Video Settings!
+> See <a href="https://docs.shaffer.network/posts/plex-video-settings/" target="_blank">this post</a> for device-specific instructions on how to set up your Video Settings!
 {: .prompt-warning }
 
 ## Libraries
@@ -119,7 +119,7 @@ On a desktop client, when the mouse is over the title image, a Play button will 
 ## <a href="https://request.shaffer.network" target="_blank">Link to Overseerr</a>
 
 Once you've navigated to Overseerr, you will use the "Sign in with Plex" option *unless otherwise instructed*. Once signed in, you can add Overseerr to your home screen if you're accessing it from a mobile device. See the instructions below for more information.
-- [How to Add a Website to the Home Screen on iPhone and Android (How-To Geek)](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)
+- <a href="https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/" target="_blank">How to Add a Website to the Home Screen on iPhone and Android (How-To Geek)</a>
 
 ## Requests
 
