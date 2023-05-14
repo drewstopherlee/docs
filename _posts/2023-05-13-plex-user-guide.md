@@ -116,7 +116,7 @@ On a desktop client, when the mouse is over the title image, a Play button will 
 
 # Overseerr User Guide
 
-## [Follow this Link to Use Overseerr](https://request.shaffer.network)
+## [Link to Overseerr](https://request.shaffer.network)
 
 Once you've navigated to Overseerr, you will use the "Sign in with Plex" option *unless otherwise instructed*. Once signed in, you can add Overseerr to your home screen if you're accessing it from a mobile device. See the instructions below for more information.
 - [How to Add a Website to the Home Screen on iPhone and Android (How-To Geek)](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)
@@ -132,7 +132,7 @@ Overseerr is used primarily as a way for you to request media to be added to Ple
 
 You can search for new movies and series using the search bar at the top of the screen. You can also browse popular movies/series using the tabs on the left of the screen or in the various sections of the home screen. 
 
-> Note that there are icons in the upper-right corners of some posters. These correspond to the item's status; a green checkmark means it's already available, a green dash means that it's partially available (i.e., some seasons of a show are available, but not all), and a purple clock means that it's been requested, but not downloaded (or released) yet.
+> There are icons in the upper-right corners of some posters. These correspond to the item's status; a green checkmark means it's already available, a green dash means that it's partially available (i.e., some seasons of a show are available, but not all), and a purple clock means that it's been requested, but not downloaded (or released) yet.
 {: .prompt-tip }
 
 Once approved, movie requests should begin downloading automatically, but TV requests still need to be downloaded manually, which can increase the time before they are available.
