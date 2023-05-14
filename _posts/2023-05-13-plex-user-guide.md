@@ -25,7 +25,9 @@ You can think of Plex as a streaming service like Netflix or Hulu that is operat
 
 Server owners typically provide access to close friends and family only and don't charge for it.
 
-Many server operators do pay a monthly or yearly fee for some additional features known as Plex Pass from the company that makes the Plex software. This helps to support ongoing efforts to make the Plex software better.
+Many server operators do pay ~~a monthly or yearly fee~~ for some additional features known as Plex Pass[^1] from the company that makes the Plex software. This helps to support ongoing efforts to make the Plex software better.
+
+[^1]: I have purchased a Lifetime Plex Pass, so I do not have any recurring costs for my server apart from electricity and internet.
 
 Additionally, Plex servers are a significant investment for the owner. The server hardware and storage devices are expensive to obtain and operate.
 
@@ -132,7 +134,7 @@ Overseerr is used primarily as a way for you to request media to be added to Ple
 
 You can search for new movies and series using the search bar at the top of the screen. You can also browse popular movies/series using the tabs on the left of the screen or in the various sections of the home screen. 
 
-> There are icons in the upper-right corners of some posters. These correspond to the item's status; a green checkmark means it's already available, a green dash means that it's partially available (i.e., some seasons of a show are available, but not all), and a purple clock means that it's been requested, but not downloaded (or released) yet.
+> There are icons in the upper-right corners of some posters. These correspond to the item's status; a green checkmark means it's already available, a green dash means that it's partially available (e.g., some seasons of a show are available, but not all), and a purple clock means that it's been requested, but not downloaded (or released) yet.
 {: .prompt-tip }
 
 Once approved, movie requests should begin downloading automatically, but TV requests still need to be downloaded manually, which can increase the time before they are available.
@@ -153,11 +155,11 @@ When you request a *current* series (one that is still airing), the server will 
 ### Checking Requests
 
 You can view active requests by clicking/tapping on Requests in the sidebar. Here you will find some additional information on your active requests and the requests of others. Here's what each of the "Status" items mean:
-- Requested: The item was requested but it hasn't begun downloading yet.
-- Pending: The item is still awaiting approval before it can begin downloading.
-- Processing: The item is currently downloading or is in the queue to be downloaded once other downloads have completed.
-- Available: The item has been downloaded and added to Plex successfully.
-- Partially Available: A portion of item requested was downloaded. This is usually because multiple seasons were requested and only some of them are available so far, but it also appears on new series that are currently airing.  
+- **Requested**: The item was requested but it hasn't begun downloading yet.
+- **Pending**: The item is still awaiting approval before it can begin downloading.
+- **Processing**: The item is currently downloading or is in the queue to be downloaded once other downloads have completed.
+- **Available**: The item has been downloaded and added to Plex successfully.
+- **Partially Available**: A portion of item requested was downloaded. This is usually because multiple seasons were requested and only some of them are available so far, but it also appears on new series that are currently airing.  
 
 ## Issues
 
