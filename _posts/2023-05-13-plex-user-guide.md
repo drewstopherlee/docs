@@ -40,7 +40,7 @@ You can use Plex to stream content anywhere without worrying about copyright not
 
 If you're here, you were probably invited to join my Plex server. The first step is to send me the email address you will use to create your free Plex account. If you've already done this: excellent, continue reading!
 
-Shortly after you'll receive an email inviting you to join my server. Click the link in the email to accept the invitation and create your account at Plex.
+Shortly after you'll receive an email inviting you to join my server. Click the link in the email to accept the invitation and create your account at Plex. Once logged in, you may be asked to "Sync Watch State." I recommend enabling this feature, as it tracks your watch progress and allows you to start watching on one device and pick up on another. It also adds a "Continue Watching" section to your Home screen.
 
 Please don't share the account you create with others. If you know someone who you think would enjoy having access to this server, have them contact me. In most cases I'll be happy to add them with their own account. 
 
@@ -69,5 +69,51 @@ To increase the quality of your playback experience, locate the Settings in your
 > See [this post](https://docs.shaffer.network/posts/plex-video-settings/) for device-specific instructions on how to set up your Video Settings!
 {: .prompt-warning }
 
+## Libraries
 
+Plex servers are organized with Libraries in order to accomplish a number of things. Foremost, this helps viewers locate the content they're looking for. Broad categories like TV Shows and Movies also enable the Plex server to obtain the correct information to fill in the details about content such as the synopsis, actors and other information about the media. Libraries are often further separated into subjects like Reality TV, Kid's TV or Documentaries to facilitate finding what you want to watch.
+
+On my server, you will have been granted access to my Movies (which includes 4K versions), TV Shows (also includes 4K content), Stand-Up (for stand-up specials), and potentially one or two more. I may eventually add a separate library for Anime, if the need arises.
+
+> **Note:** The Plex creators recently added a new Library that appears for all users called *"Movies & TV On Plex"*. Users should know that the ad-supported content in this special library is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie studios. Plex server owners have no control over the content of this library. **In most Plex players, you can find an option to Unpin this library from your list so it doesn't appear.**
+{: .prompt-warning }
+
+## Navigation
+
+Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. Along the top of the main view you can switch between the Recommended, Library, Collections, or Playlists tabs.
+
+#### Recommended
+
+This is a view of content the server selects automatically that contains a "Continue Watching" section and a mix of items in this library that are new or popular.
+
+#### Library
+
+This view shows the full contents of the Library. This will be in alphabetical order by default, but you can use filters and sorting to change how the list is presented.
+
+#### Collections
+
+Collections are a way to organize films and group them together.
+
+The first few sections of the Collections page are mostly organizational: Newly Released, Seasonal films, IMDb Top 250, etc. The next section are streaming service original movies/series that I have available. The next section is for production companies, and the next is for award winners (Oscar winners, Golden Globe winners, etc.). The final two sections are for Directors/Writers and Actors (these will be deceased actors and you may find them featured on your Home page when a new collection is added).
+
+The rest of the Collections tab is for movie series, i.e. Iron Man (includes Iron Man, Iron Man 2, and Iron Man 3), TV Series that had movie adaptations, i.e. Downton Abbey (these will show you the Movies and TV Shows in the collection, regardless of which Library you are currently browsing), and other collections. 
+
+> Please note that if a movie is in a "film series" collection, they will typically be hidden from the rest of the library while browsing alphabetically. This means that **some movies may seem like they're missing** because the title of the collection doesn't match the title of the movies. For example, the films *Unbreakable*, *Split*, and *Glass* are in a collection titled, "Eastrail 177," and the films *Shaun of the Dead*, *Hot Fuzz*, and *The World's End* are in a collection titled, "The Cornetto Trilogy."
+{: .prompt-tip }
+
+#### Playlists
+
+Playlists are curated lists of films and TV episodes with an emphasis on their ordering. For example, you may have a Playlist for Marvel's Infinity Saga and Multiverse Saga, as well as an "MCU Ultimate Watchlist" Playlist. The "MCU Ultimate Watchlist" contains all of the MCU films (and television series!) in their suggested watch order. There are other playlists available for crossover series, such as *The Vampire Diaries*, *The Originals*, and *Legacies*.
+
+### Playback
+
+Playback works very similar to how it does on other streaming services.
+
+On streaming devices, if you push the play button on a title, playback should begin immediately. If you press select/OK/enter, you'll be taken to the information page about a title. For movies this will include a summary and other information. For a TV show, this will go to a list of seasons. And from there you can select a season to view the list of individual episodes.
+
+On a desktop client, when the mouse is over the title image, a Play button will be visible - if you click that, playback should begin. If you click elsewhere, the process will be similar to selecting on a streaming device.
+
+# Overseerr User Guide
+
+*This section coming soon!*
 

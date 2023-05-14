@@ -13,7 +13,7 @@ This page details how to set your video settings correctly to provide the best p
 
 Please click the link below according to which device you'll be using:
 - [Website](https://docs.shaffer.network/posts/plex-video-settings/#plex-web)
-- [Cell phone or tablet app](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-ios-android)
+- [Cell phone or tablet app](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-iosandroid)
 - [Apple TV app](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tvos)
 - [Smart TV](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tv-apps)
 - [Amazon Fire TV](https://docs.shaffer.network/posts/plex-video-settings/#plex-on-tv-apps)
