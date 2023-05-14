@@ -5,6 +5,7 @@ date: 2023-05-13 20:00:00 -0500
 categories: [Plex]
 tags: [plex, user, homelab, media, new, guide, graphics, movies, tv, shows, tv shows, music, libraries, overseerr, requests, quality]
 pin: true
+image: https://www.smarthomebeginner.com/images/2020/02/best-media-server-for-plex-ft.jpg
 ---
 
 # Plex User Guide
