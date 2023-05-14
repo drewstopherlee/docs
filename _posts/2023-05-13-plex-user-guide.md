@@ -8,30 +8,6 @@ pin: true
 image: https://www.smarthomebeginner.com/images/2020/02/best-media-server-for-plex-ft.jpg
 ---
 
-- [Plex User Guide](#plex-user-guide)
-  - [What's Plex?](#whats-plex)
-    - [So what is Plex anyway?](#so-what-is-plex-anyway)
-    - [Is Plex Free?](#is-plex-free)
-    - [Is Plex legal?](#is-plex-legal)
-  - [Getting Started](#getting-started)
-  - [Playback Quality](#playback-quality)
-  - [Libraries](#libraries)
-  - [Navigation](#navigation)
-      - [Recommended](#recommended)
-      - [Library](#library)
-      - [Collections](#collections)
-      - [Playlists](#playlists)
-    - [Playback](#playback)
-- [Overseerr User Guide](#overseerr-user-guide)
-  - [Link to Overseerr](#link-to-overseerr)
-  - [Requests](#requests)
-    - [Making Requests](#making-requests)
-      - [Requesting Movies](#requesting-movies)
-      - [Requesting TV Series](#requesting-tv-series)
-    - [Checking Requests](#checking-requests)
-  - [Issues](#issues)
-  - [Email Settings](#email-settings)
-
 # Plex User Guide
 
 This guide is meant to walk you through what Plex is, what it can do, and a few first steps that are suggested before you stream or request any media. 
@@ -140,7 +116,7 @@ On a desktop client, when the mouse is over the title image, a Play button will 
 
 # Overseerr User Guide
 
-## [Link to Overseerr](https://request.shaffer.network)
+## <a href="https://request.shaffer.network" target="_blank">Link to Overseerr</a>
 
 Once you've navigated to Overseerr, you will use the "Sign in with Plex" option *unless otherwise instructed*. Once signed in, you can add Overseerr to your home screen if you're accessing it from a mobile device. See the instructions below for more information.
 - [How to Add a Website to the Home Screen on iPhone and Android (How-To Geek)](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)
