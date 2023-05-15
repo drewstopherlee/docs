@@ -50,11 +50,11 @@ Please don't share the account you create with others. If you know someone who y
 > Additionally, if you decide to purchase a Plex Pass (unlocks some paid features within your Plex players), the people you add to your "Plex Home" will not have access to my libraries.
 {: .prompt-warning }
 
-Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS/tvOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
+Now's the time to connect your playback devices to your new account. Depending on what you're using, you may need to download and install the Plex app your device, or one may have come pre-installed. (This includes the App Store on iOS/tvOS devices, the Google Play Store on Android devices, and other similar stores and libraries on other platforms like Roku.)
 
 Upon first use for most of these platforms, you will either have to log in with your username and password, or link the device with your account when prompted. To link your account, your Smart TV or streaming device will show you a code made of 4 letters or numbers. Simply visit <a href="https://www.plex.tv/link/" target="_blank">plex.tv/link</a> and enter the code (you may have to sign in first if you're not already). This linking process saves you from having to enter your username and password on your TV which can be frustrating.
 
-Once you've entered the code, your streaming device should sign in automatically after a few moments.
+Once you've entered the code, your streaming device should sign in automatically after a few seconds.
 
 You can visit the <a href="https://www.plex.tv/media-server-downloads/#plex-app" target="_blank">Plex downloads page</a> to see a list of platforms on which the Plex player is available and be directed on how to install it for your device.
 
@@ -101,7 +101,7 @@ The first few sections of the Collections page are mostly organizational: Newly 
 
 The rest of the Collections tab is for movie series, i.e. Iron Man (includes Iron Man, Iron Man 2, and Iron Man 3), TV Series that had movie adaptations, i.e. Downton Abbey (these will show you the Movies and TV Shows in the collection, regardless of which Library you are currently browsing), and other collections. 
 
-> Please note that if a movie is in a "film series" collection, they will typically be hidden from the rest of the library while browsing alphabetically. This means that **some movies may seem like they're missing** because the title of the collection doesn't match the title of the movies. For example, the films *Unbreakable*, *Split*, and *Glass* are in a collection titled, "Eastrail 177," and the films *Shaun of the Dead*, *Hot Fuzz*, and *The World's End* are in a collection titled, "The Cornetto Trilogy."
+> Please note that if a movie is in a "film series" collection, they will typically be hidden from the rest of the library while browsing alphabetically. This means that **some movies may seem like they're missing** because the title of the collection doesn't match the title of the movies. For example, the films *Elektra* and *Daredevil* are in a collection titled, "Daredevil," and the films *Willy Wonka & the Chocolate Factory* and *Charlie and the Chocolate Factory* are in a collection titled, "The Chocolate Factory Collection."
 {: .prompt-tip }
 
 #### Playlists
