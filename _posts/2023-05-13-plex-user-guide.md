@@ -147,7 +147,7 @@ On a desktop client, when the mouse is over the title image, a Play button will 
 
 ## <a href="https://request.shaffer.network" target="_blank">Link to Overseerr</a>
 
-Once you've navigated to Overseerr, you will use the "Sign in with Plex" option *unless otherwise instructed*. Once signed in, you can add Overseerr to your home screen if you're accessing it from a mobile device. See the instructions below for more information.
+Overseerr is what's used to request new media that is then automatically added to Plex, and to report problems you may have. Use the link above to access Overseerr. Once you've navigated to Overseerr, you will use the "Sign in with Plex" option *unless otherwise instructed*. Once signed in, you can add Overseerr to your home screen if you're accessing it from a mobile device. See the instructions below for more information.
 - <a href="https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/" target="_blank">How to Add a Website to the Home Screen on iPhone and Android (How-To Geek)</a>
 
 ## Requests
