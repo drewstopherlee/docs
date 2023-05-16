@@ -131,7 +131,7 @@ Some items in my libraries include "overlays" to denote certain information abou
 | TV Shows                                                                                          |
 | ![TV Overlays](/assets/img/overlays-3.png)                                                        |
 | TV Episodes                                                                                       |
-| ![Movie Overlays 1](/assets/img/overlays-1.png)                                                   |
+| ![Episode Overlays](/assets/img/overlays-4.png)                                                   |
 
 
 If you have ideas for other overlays, please feel free to let me know!
