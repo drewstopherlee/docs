@@ -121,6 +121,13 @@ Some items in my libraries include "overlays" to denote certain information abou
 > If you notice that an item has an HDR overlay and appears very dark on your display, try selecting 'Play Version...' and choose an SDR version, if available. You may also get an error regarding transcoding 4K content; this message also explains how to select the 1080p HD version instead of the 4K version.
 {: .prompt-tip }
 
+#### Examples
+
+| Movies                                                                                            | TV Shows                                      | TV Episodes                                       |
+|:--------------------------------------------------------------------------------------------------|:----------------------------------------------|--------------------------------------------------:|
+| ![Movie Overlays 1](/assets/img/overlays-1.png) ![Movie Overlays 2](/assets/img/overlays-2.png)   | ![TV Overlays](/assets/img/overlays-3.png)    | ![Movie Overlays 1](/assets/img/overlays-1.png)   |
+
+
 If you have ideas for other overlays, please feel free to let me know!
 
 ### Playback
