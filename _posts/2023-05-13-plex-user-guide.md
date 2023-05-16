@@ -123,9 +123,15 @@ Some items in my libraries include "overlays" to denote certain information abou
 
 #### Examples
 
-| Movies                                                                                            | TV Shows                                      | TV Episodes                                       |
-|:--------------------------------------------------------------------------------------------------|:----------------------------------------------|--------------------------------------------------:|
-| ![Movie Overlays 1](/assets/img/overlays-1.png) ![Movie Overlays 2](/assets/img/overlays-2.png)   | ![TV Overlays](/assets/img/overlays-3.png)    | ![Movie Overlays 1](/assets/img/overlays-1.png)   |
+| Movies                                                                                            |
+|:-------------------------------------------------------------------------------------------------:|
+| ![Movie Overlays 1](/assets/img/overlays-1.png) ![Movie Overlays 2](/assets/img/overlays-2.png)   |
+| TV Shows                                                                                          |
+|:-------------------------------------------------------------------------------------------------:|
+| ![TV Overlays](/assets/img/overlays-3.png)                                                        |
+| TV Episodes                                                                                       |
+|:-------------------------------------------------------------------------------------------------:|
+| ![Movie Overlays 1](/assets/img/overlays-1.png)                                                   |
 
 
 If you have ideas for other overlays, please feel free to let me know!
