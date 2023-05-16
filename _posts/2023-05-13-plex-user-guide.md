@@ -198,10 +198,10 @@ One of the other features of Overseerr is that it allows you to file issues with
 5. Add a description of what is wrong. 
 
 Examples: 
-- Issue > Audio > "The audio for season one episode two is in the wrong language."
-- Issue > Video > "This is the wrong movie."
-- Issue > Subtitle > "The S02E03 subtitles aren't synced up correctly."
-- Issue > Other > "The player closed unexpectedly after I hit play."
+- **Issue** > **Audio** > *"The audio for season one episode two is in the wrong language."*
+- **Issue** > **Video** > *"This is the wrong movie."*
+- **Issue** > **Subtitle** > *"The S02E03 subtitles aren't synced up correctly."*
+- **Issue** > **Other** > *"The player closed unexpectedly after I hit play."*
 
 ## Email Settings
 
