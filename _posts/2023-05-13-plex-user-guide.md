@@ -115,10 +115,11 @@ Some items in my libraries include "overlays" to denote certain information abou
 2. Resolution overlay (Movies & TV): This overlay will display on movies and series with 4K versions. It will denote either 4K UHD (not HDR), 4K HDR, 4K DV (Dolby Vision), or just HDR. This overlay is usually accompanied by the Versions overlay (#4).
 3. Audio overlay (Movies & TV): This overlay shows when the media has certain audio codecs, such as DTS:HD, DTS:X, Dolby Atmos, etc.
 4. Versions overlay (Movies & TV *episodes*): This overlay appears on media with *multiple versions*. This typically means that there is an HD version and a 4K version, but may also mean that there are HDR and SDR (non-HDR) versions. For example, the TV series *Murderville* has both HDR and SDR versions.
-> If you notice that an item has an HDR overlay and appears very dark on your display, try selecting 'Play Version...' and choose an SDR version, if available. You may also get an error regarding transcoding 4K content; this message also explains how to select the 1080p HD version instead of the 4K version.
-{: .prompt-tip }
 5. Streaming overlay (Movies & TV): This overlay shows which streaming service this item is available on, in addition to my Plex server.
 6. Status overlay (TV series *only*): This overlay tells you whether the series is continuing or ended (cancelled or otherwise).
+
+> If you notice that an item has an HDR overlay and appears very dark on your display, try selecting 'Play Version...' and choose an SDR version, if available. You may also get an error regarding transcoding 4K content; this message also explains how to select the 1080p HD version instead of the 4K version.
+{: .prompt-tip }
 
 If you have ideas for other overlays, please feel free to let me know!
 
