@@ -85,6 +85,8 @@ On my server, you will have been granted access to my Movies (which includes 4K 
 
 Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. Along the top of the main view you can switch between the Recommended, Library, Collections, and Playlists tabs.
 
+### Tabs
+
 #### Recommended
 
 This is content the server selects automatically that contains a "Continue Watching" section and a mix of items in this library that are new or suggested.
