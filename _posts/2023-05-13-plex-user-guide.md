@@ -83,9 +83,11 @@ On my server, you will have been granted access to my Movies (which includes 4K 
 
 ## Navigation
 
-Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. Along the top of the main view you can switch between the Recommended, Library, Collections, and Playlists tabs.
+Depending on what device or platform you're using Plex from, the interface can vary slightly, but typically you will find a list of the Libraries on the server located on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library. 
 
 ### Tabs
+
+Along the top of the main view you can switch between the Recommended, Library, Collections, and Playlists tabs.
 
 #### Recommended
 
@@ -125,13 +127,10 @@ Some items in my libraries include "overlays" to denote certain information abou
 
 #### Examples
 
-| Movies                                                                                            |
-| ![Movie Overlays 1](/assets/img/overlays-1.png)                                                   |
-| ![Movie Overlays 2](/assets/img/overlays-2.png)                                                   |
-| TV Shows                                                                                          |
-| ![TV Overlays](/assets/img/overlays-3.png)                                                        |
-| TV Episodes                                                                                       |
-| ![Episode Overlays](/assets/img/overlays-4.png)                                                   |
+| Movies (version 1)                                | Movies (version 2)                                |
+| ![Movie Overlays 1](/assets/img/overlays-1.png)   | ![Movie Overlays 2](/assets/img/overlays-2.png)   |
+| TV Shows                                          | TV Episodes                                       |
+| ![TV Overlays](/assets/img/overlays-3.png)        | ![Episode Overlays](/assets/img/overlays-4.png)   |
 
 
 If you have ideas for other overlays, please feel free to let me know!
