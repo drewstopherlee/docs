@@ -135,7 +135,7 @@ __Ideally, use the "belt *and* suspenders" approach: reserve the IP in your DHCP
 
 This section will suppose that you are assigning a static IP of `10.0.0.100` to a machine connected to a router at `10.0.0.1`, in the `255.255.255.0` subnet, using `1.1.1.1` and `1.0.0.1` as its DNS addresses.
 
-1. You can check your machine's current IP configuration using `ip a`.
+1. You can check your machine's current IP configuration using `ip a` and find the machine's MAC address using `ifconfig -a`.
 2. Edit the `netplan` configuration using:
 ```sh
 cd /etc/netplan/
@@ -148,7 +148,10 @@ sudo nano 01-netcfg.yaml
 network:
     version: 2
     ethernets:
-        eth0:
+        enp2s0: ## Do not change
+            match: ## This and the next two lines are optional, but must be enabled/disabled TOGETHER
+                macaddress: <YOUR MAC ID HERE> ## Set your machine's MAC address here
+            set-name: eth0 ## Optional, use to change the interface name to 'eth0'
             dhcp4: no
             addresses:
                 - 10.0.0.100/24
