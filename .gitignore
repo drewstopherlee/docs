@@ -20,3 +20,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Hidden posts
+/_posts/2022-11-20-first-things-linux.md
